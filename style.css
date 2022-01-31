@@ -1,0 +1,68 @@
+.perfil {
+    width: 420px;
+    height: 470px;
+    border-style: double;
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+    margin-left: 15px;
+    background-color: thistle;
+}
+
+.inicio {
+    width: 450px;
+    border-style: double;
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+    background-color: thistle;
+    font-size: 15px;
+}
+
+.sobremim {
+    width: 450px;
+    border-style: double;
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+    background-color: thistle;
+}
+
+.educacao {
+    width: 450px;
+    border-style: double;
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+    background-color: thistle;
+}
+
+.habilidades {
+    width: 450px;
+    border-style: double;
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+    background-color: thistle;
+}
+
+.experiencia {
+    width: 450px;
+    border-style: double;
+    margin: auto;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15px;
+    background-color: thistle;
+}
